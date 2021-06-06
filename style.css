@@ -1,0 +1,65 @@
+.carousel-control-prev{
+    width: 100px;
+    height: auto;
+    background: none;
+    border: none;
+    
+}
+.head-width{
+    max-width: 1380px;
+}
+.carousel-control-next{
+    width: 100px;
+    height: auto;
+    background: none;
+    border: none;
+}
+
+.carousel-indicators{
+    margin-bottom: 20px;
+}
+.carousel-indicators button{
+    width: 30px;
+    margin: 5px;
+    border: none;
+    outline: none;
+    height: 3px;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+.full{
+    /* background-color: #0dcaf0; */
+    padding: 35px 20px;
+}
+/* tooltrip */
+.tooltrip{
+    margin: 60px 0;
+    
+}
+.accordion-body img{
+    width: 650px;
+    height: 200px;
+}
+
+.modale-mo{
+    margin-top: 50px;
+}
+
+.progress{
+    margin: 20px 0;
+}
+
+/* form-select */
+.form-select {
+    width: 200px;
+    margin-top: 10px;
+    /* height: 32px; */
+    padding: 0;
+}
+
+/* footer */
+.footer p{
+    margin-top: 20px;
+}
